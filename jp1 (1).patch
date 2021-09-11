@@ -1,5 +1,7 @@
-
-Subject: [PATCH] Create patch file
+#Task 1
+#Interface with a stock price data feed
+#Interface with a stock price data feed and set up your system for analysis of the data
+#Subject: [PATCH] Create patch file
 
 ---
  client3.py     | 12 ++++++++----
